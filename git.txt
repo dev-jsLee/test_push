@@ -24,19 +24,3 @@ git add .
 staging 되었다고 한다.
 버전 확정
 git commit -m "커밋메시지"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
